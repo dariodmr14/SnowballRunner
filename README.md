@@ -54,7 +54,6 @@ Build/         → ejecutable para Windows
 ## 🎨 Recursos
 
 - Texturas: [ambientCG](https://ambientcg.com) (CC0)
-- Cielo: [Poly Haven](https://polyhaven.com) (CC0)
 - Sonidos y música: [Pixabay](https://pixabay.com)
 - Fuente: [Fredoka](https://fonts.google.com/specimen/Fredoka) (OFL)
 
