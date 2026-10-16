@@ -1,0 +1,46 @@
+# Carpetas que Unity regenera solo
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Restos de builds dentro del proyecto (la build buena esta en ../Build)
+/[Bb]uild/
+/[Bb]uilds/
+/*.exe
+/*.dll
+/*_Data/
+/MonoBleedingEdge/
+
+# Archivos del editor de codigo
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+crashlytics-build.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
