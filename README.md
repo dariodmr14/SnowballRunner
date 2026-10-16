@@ -6,7 +6,7 @@ Eres una bola de nieve que baja por una montaña helada. Rueda por la nieve para
 
 ## 🎥 Vídeo
 
-▶️ **[Ver el vídeo en YouTube](PEGAR_AQUI_EL_ENLACE)** — #RAAUniovi2026
+▶️ **[Ver el vídeo en YouTube](https://youtu.be/3oPaEL-benI)** — #RAAUniovi2026
 
 ## 🎮 Cómo jugar
 
@@ -57,3 +57,7 @@ Build/         → ejecutable para Windows
 - Cielo: [Poly Haven](https://polyhaven.com) (CC0)
 - Sonidos y música: [Pixabay](https://pixabay.com)
 - Fuente: [Fredoka](https://fonts.google.com/specimen/Fredoka) (OFL)
+
+---
+
+*Este README ha sido generado con ayuda de IA.*
